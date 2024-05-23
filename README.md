@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Masaruz101
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning PHP&Python
-- 💞️ I’m looking to collaborate on Project
+- 🌱 I’m currently learning to create Redteam Project & LLM
+- 💞️ I’m looking to collaborate/Contribute on Redteam Project
 - 📫 How to reach me 61030002@kmitl.ac.th
 
 <!---
